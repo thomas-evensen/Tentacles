@@ -1,0 +1,36 @@
+TENT[0]
+CP[0]
+PO	: new Distance(300,350),
+CP[1]
+PO	: new Distance(250,150),
+CP[2]
+PO	: new Distance(-14,303),
+CP[3]
+PO	: new Distance(25,50),
+TENT[1]
+CP[0]
+PO	: new Distance(252,120),
+CP[1]
+PO	: new Distance(630,175),
+CP[2]
+PO	: new Distance(592,119),
+CP[3]
+PO	: new Distance(533,36),
+TENT[2]
+CP[0]
+PO	: new Distance(550,350),
+CP[1]
+PO	: new Distance(570,420),
+CP[2]
+PO	: new Distance(620,535),
+CP[3]
+PO	: new Distance(753,464),
+TENT[3]
+CP[0]
+PO	: new Distance(451,442),
+CP[1]
+PO	: new Distance(270,365),
+CP[2]
+PO	: new Distance(283,500),
+CP[3]
+PO	: new Distance(70,465),
